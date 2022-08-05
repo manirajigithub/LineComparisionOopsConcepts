@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.AssemblyInfo.cs
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\bin\Debug\net6.0\LineComparisionUC4.exe
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\bin\Debug\net6.0\LineComparisionUC4.deps.json
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\bin\Debug\net6.0\LineComparisionUC4.runtimeconfig.json
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\bin\Debug\net6.0\LineComparisionUC4.dll
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\bin\Debug\net6.0\LineComparisionUC4.pdb
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.dll
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\refint\LineComparisionUC4.dll
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.pdb
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\LineComparisionUC4.genruntimeconfig.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionUC4\obj\Debug\net6.0\ref\LineComparisionUC4.dll
