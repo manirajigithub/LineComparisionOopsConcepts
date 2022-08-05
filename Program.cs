@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Calculate the comparing the length");
-            UC3_CompareLength lc = new UC3_CompareLength();
+            UC3_CompareTwoLines lc = new UC3_CompareTwoLines();
         }
     }
 }

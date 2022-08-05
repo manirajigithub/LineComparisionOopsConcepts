@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\bin\Debug\net6.0\LineComparisionCompareUC3.exe
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\bin\Debug\net6.0\LineComparisionCompareUC3.deps.json
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\bin\Debug\net6.0\LineComparisionCompareUC3.runtimeconfig.json
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\bin\Debug\net6.0\LineComparisionCompareUC3.dll
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\bin\Debug\net6.0\LineComparisionCompareUC3.pdb
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.AssemblyInfo.cs
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.dll
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\refint\LineComparisionCompareUC3.dll
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.pdb
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\LineComparisionCompareUC3.genruntimeconfig.cache
+C:\Users\mani1\source\repos\LineComparisionComputation\LineComparisionCompareUC3\obj\Debug\net6.0\ref\LineComparisionCompareUC3.dll
