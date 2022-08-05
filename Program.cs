@@ -1,4 +1,4 @@
-﻿namespace LineComparisionUC4
+namespace LineComparisionUC4
 {
     class program
     {
